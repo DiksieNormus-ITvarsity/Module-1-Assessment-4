@@ -1,0 +1,27 @@
+.content-table {
+    border-collapse: collapse;
+    margin: 25px;
+    font-size: 0.8cm;
+    min-width: 400px;
+}
+
+th{
+    background-color: red;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+    padding: 12px 5px;
+}
+
+td {
+    padding: 12px 15px;
+}
+
+tbody tr {
+    border-bottom: 1px solid #ddd;
+}
+
+h1{
+    color: red;
+    font-family: sans-serif
+}
